@@ -3,7 +3,8 @@
 CADファイルがあります．整頓機構とR-theta機構が入ってます．
 ## eDrawings
 [R-theta](https://keioroboticsassociation.github.io/Hi-chewns/Rtheta_r3.html)
-[整頓機構](https://keioroboticsassociation.github.io/Hi-chewns/shooting.html)
+
+[整頓機構](https://keioroboticsassociation.github.io/Hi-chewns/move_x_module_r2.html)
 
 ## 概観
 
