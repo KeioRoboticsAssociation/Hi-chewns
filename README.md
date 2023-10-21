@@ -6,6 +6,8 @@ CADファイルがあります．整頓機構とR-theta機構が入ってます�
 
 [整頓機構](https://keioroboticsassociation.github.io/Hi-chewns/move_x_module_r2.html)
 
+[overview](https://github.com/KeioRoboticsAssociation/Hi-chewns/blob/main/move_x_module_r2.html)
+
 ## 概観
 
 ![image](https://github.com/KeioRoboticsAssociation/Hi-chewns/assets/84272162/e709d2bc-889c-45d9-af77-ce906ccfdfb4)
